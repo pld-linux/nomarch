@@ -1,12 +1,12 @@
 Summary:	nomarch - extract ".arc" files
 Summary(pl):	nomarch - rozpakowywanie plików .arc
 Name:		nomarch
-Version:	1.3
+Version:	1.4
 Release:	1
 License:	GPL v2+
 Group:		Applications/Archiving
 Source0:	ftp://ftp.ibiblio.org/pub/Linux/utils/compress/%{name}-%{version}.tar.gz
-# Source0-md5:	1f854f5efa8b129227ac85cb24f99325
+# Source0-md5:	1b0be450e2af64710f9627f85d1b0130
 URL:		http://rus.members.beeb.net/nomarch.html
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
