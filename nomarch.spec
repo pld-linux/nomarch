@@ -1,5 +1,5 @@
 Summary:	nomarch - extract ".arc" files
-Summary(pl):	nomarch - rozpakowywanie plików .arc
+Summary(pl.UTF-8):   nomarch - rozpakowywanie plikÃ³w .arc
 Name:		nomarch
 Version:	1.4
 Release:	1
@@ -17,11 +17,11 @@ list and test such archives.
 It's primarily intended as a `replacement' for the non-Free `arc'
 program.
 
-%description -l pl
-nomarch rozpakowuje pliki z archiwów w starym formacie .arc. Mo¿e
-tak¿e pokazywaæ zawarto¶æ i testowaæ takie archiwa. Jest pomy¶lany
-g³ównie jako zamiennik dla programu arc, który ma bardziej
-restrykcyjn± licencjê.
+%description -l pl.UTF-8
+nomarch rozpakowuje pliki z archiwÃ³w w starym formacie .arc. MoÅ¼e
+takÅ¼e pokazywaÄ‡ zawartoÅ›Ä‡ i testowaÄ‡ takie archiwa. Jest pomyÅ›lany
+gÅ‚Ã³wnie jako zamiennik dla programu arc, ktÃ³ry ma bardziej
+restrykcyjnÄ… licencjÄ™.
 
 %prep
 %setup -q
