@@ -1,5 +1,5 @@
 Summary:	nomarch - extract ".arc" files
-Summary(pl.UTF-8):   nomarch - rozpakowywanie plików .arc
+Summary(pl.UTF-8):	nomarch - rozpakowywanie plików .arc
 Name:		nomarch
 Version:	1.4
 Release:	1
